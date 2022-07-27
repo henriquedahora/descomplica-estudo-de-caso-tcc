@@ -1,0 +1,29 @@
+.principal {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    padding: 5px;
+}
+
+body {
+    background-color: rgb(233, 232, 232);
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: blueviolet;
+}
